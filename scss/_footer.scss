@@ -1,0 +1,23 @@
+$paddingleft:5px;
+
+.social_padding{
+    padding-left: $paddingleft;
+}
+
+.footer_position{
+        display: flex;
+        flex-direction: row;
+        width: 50%*2;
+        list-style: none;
+        justify-content: flex-end;
+}
+.footer_margin{
+    margin-top: 10px;
+}
+.footer_position_BIO{
+    display: flex;
+        flex-direction: row;
+        width: 50%*2;
+        list-style: none;
+        justify-content: flex-end;
+}

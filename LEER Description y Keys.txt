@@ -1,0 +1,12 @@
+lolo, te comento todos los cambios que hice
+
+
+los titles estan correctamente describiendo posicionamiento de la pestaña en cuestion.
+todos los h1 corresponden al titulo del contenido a mostrar
+las imagenes estan todas en 72ppi y adaptadas en tamaño
+todos los alt estann describiendo contextualmente el contenido de la misma
+y los meta son los siguiente.... el description es igual en todas las paginas ya que son mension de la pagina en si...
+pero los keys estan describiendo generalidades pero en cada una de los html se le agrego key en particular que corresponde a dicha pestaña.
+
+tambien hice el 404 el cual como te comente lo hice en contacto el cual te manda directamente al index nuevamente.
+
