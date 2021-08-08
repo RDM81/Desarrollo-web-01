@@ -7266,8 +7266,7 @@ body {
 body, html {
   height: 100%;
   background-repeat: no-repeat;
-  background: url(../assets/Imagenes/logos/lightback.png) no-repeat center center fixed;
-  background-size: 100% 100%; }
+  background: url(../assets/Imagenes/logos/lightback.png) no-repeat center center fixed; }
 
 .opacity-0 {
   opacity: 0 !important; }
