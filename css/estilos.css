@@ -7206,7 +7206,9 @@ a.text-dark:hover, a.text-dark:focus {
     * .menuVista_mobil {
       justify-content: center;
       margin-left: 0%;
-      margin-right: 0%; } }
+      margin-right: 0%; }
+    * .mainHeader_vistaMobil {
+      margin: 50% 0; } }
 
 @media only screen and (min-width: 768px) {
   * {
