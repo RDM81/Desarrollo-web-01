@@ -3103,8 +3103,8 @@ input[type="button"].btn-block {
 
 .navbar-toggler-icon {
   display: inline-block;
-  width: 1.5em;
-  height: 1.5em;
+  width: 1em;
+  height: 1em;
   vertical-align: middle;
   content: "";
   background: 50% / 100% 100% no-repeat; }
@@ -7226,14 +7226,6 @@ a.text-dark:hover, a.text-dark:focus {
 .animacion_parrafo--tamanio {
   font-size: 1rem; }
 
-.footer_padding {
-  padding-left: 0%;
-  padding-right: 0%; }
-
-.menu_padding {
-  padding-left: 0%;
-  padding-right: 0%; }
-
 * {
   margin: 0;
   padding: 0; }
@@ -7247,8 +7239,10 @@ body {
 .footer_position {
   display: flex;
   flex-direction: row;
-  width: 100%;
-  list-style: none;
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+  list-style: none !important;
   justify-content: flex-end; }
 
 .footer_margin {
@@ -7261,6 +7255,26 @@ body {
   list-style: none;
   justify-content: flex-end; }
 
+.footer_padding {
+  padding-left: 0%;
+  padding-right: 0%; }
+
+.menu_padding {
+  padding-left: 0%;
+  padding-right: 0%; }
+
+.flecha_position {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.footer_marginAbajo {
+  margin-bottom: 0%; }
+
+.footer_colorFondo {
+  background-color: white;
+  height: 50px; }
+
 .parrafo_intro {
   text-align: justify;
   text-justify: inter-word; }
@@ -7268,10 +7282,6 @@ body {
 .parrafo2 {
   text-align: justify;
   text-justify: inter-word; }
-
-.position_cards {
-  display: flex;
-  justify-content: center; }
 
 body, html {
   height: 100%;

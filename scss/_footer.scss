@@ -7,9 +7,12 @@ $paddingleft:5px;
 .footer_position{
         display: flex;
         flex-direction: row;
-        width: 50%*2;
-        list-style: none;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        list-style: none !important;
         justify-content: flex-end;
+        
 }
 .footer_margin{
     margin-top: 10px;
@@ -20,4 +23,26 @@ $paddingleft:5px;
         width: 50%*2;
         list-style: none;
         justify-content: flex-end;
+}
+.footer_padding{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.menu_padding{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.flecha_position{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    
+}
+.footer_marginAbajo{
+    margin-bottom: 0%;
+}
+.footer_colorFondo{
+    background-color: white;
+    height: 50px;
 }
