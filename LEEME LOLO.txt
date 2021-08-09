@@ -1,5 +1,22 @@
 lolo, te comento todos los cambios que hice
 
+agregue mas partial, separados la mayoria los partials son...
+
+@import"tamanios";
+@import"resets";
+@import"footer";
+@import"parrafos";
+@import"backgroundPropio";
+@import"opacity";
+@import"introPosition";
+
+agregue una pagina index de bienvenida osea una intro antes de ir al HOME...
+tambien agregue animaciones en varias pestañas, como las fotos y flyers...
+el footer aun lo estoy trabajando no es como va a quedar...
+tambien puse transparencias... deje aun unas clases de opacity porque las voy a usar mas adelante.
+asi como algunas clases del footer que no estan siendo utilizadas en esta version que te estoy subiendo
+pero que son funcionales al nuevo footer que estoy haciendo.
+
 
 los titles estan correctamente describiendo posicionamiento de la pestaña en cuestion.
 todos los h1 corresponden al titulo del contenido a mostrar
