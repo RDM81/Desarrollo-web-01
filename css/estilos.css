@@ -7224,6 +7224,14 @@ a.text-dark:hover, a.text-dark:focus {
 .animacion_parrafo--tamanio {
   font-size: 1rem; }
 
+.footer_padding {
+  padding-left: 0%;
+  padding-right: 0%; }
+
+.menu_padding {
+  padding-left: 0%;
+  padding-right: 0%; }
+
 * {
   margin: 0;
   padding: 0; }
@@ -7300,3 +7308,6 @@ body, html {
 
 .backgroundTransparencia_menu {
   background-color: rgba(131, 130, 130, 0.5) !important; }
+
+.main_header {
+  height: 50%; }
