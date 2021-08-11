@@ -30,6 +30,7 @@
         .mainHeader_vistaMobil{
             margin: 50% 0;
         }
+        
     }
 }
 
@@ -47,4 +48,17 @@ $tituloSecundario:1rem;
 .titulo_tamanio{font-size:$h1;}
 .titulo_tamanio2{font-size:$tituloSecundario;}
 .animacion_parrafo--tamanio{font-size:$parrafo;}
+
+.margin_general{
+    margin-top: 20px;
+}
+
+.margin_redes{
+    margin-top: 5px;
+    
+}
+.marginAbajo_redes{
+    margin-bottom: 10px;
+}
+
 

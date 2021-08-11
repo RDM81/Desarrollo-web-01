@@ -7226,6 +7226,15 @@ a.text-dark:hover, a.text-dark:focus {
 .animacion_parrafo--tamanio {
   font-size: 1rem; }
 
+.margin_general {
+  margin-top: 20px; }
+
+.margin_redes {
+  margin-top: 5px; }
+
+.marginAbajo_redes {
+  margin-bottom: 10px; }
+
 * {
   margin: 0;
   padding: 0; }
@@ -7244,9 +7253,6 @@ body {
   right: 10px;
   list-style: none !important;
   justify-content: flex-end; }
-
-.footer_margin {
-  margin-top: 10px; }
 
 .footer_position_BIO {
   display: flex;
@@ -7282,6 +7288,9 @@ body {
 .parrafo2 {
   text-align: justify;
   text-justify: inter-word; }
+
+.h2_resumen {
+  color: red; }
 
 body, html {
   height: 100%;
