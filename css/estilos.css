@@ -7223,9 +7223,6 @@ a.text-dark:hover, a.text-dark:focus {
 .titulo_tamanio2 {
   font-size: 1rem; }
 
-.animacion_parrafo--tamanio {
-  font-size: 1rem; }
-
 .margin_general {
   margin-top: 20px; }
 
@@ -7254,13 +7251,6 @@ body {
   list-style: none !important;
   justify-content: flex-end; }
 
-.footer_position_BIO {
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  list-style: none;
-  justify-content: flex-end; }
-
 .footer_padding {
   padding-left: 0%;
   padding-right: 0%; }
@@ -7285,44 +7275,10 @@ body {
   text-align: justify;
   text-justify: inter-word; }
 
-.parrafo2 {
-  text-align: justify;
-  text-justify: inter-word; }
-
-.h2_resumen {
-  color: red; }
-
 body, html {
   height: 100%;
   background-repeat: no-repeat;
   background: url(../assets/Imagenes/logos/lightback.png) no-repeat center center fixed; }
-
-.opacity-0 {
-  opacity: 0 !important; }
-
-.opacity-1 {
-  opacity: 0.2 !important; }
-
-.opacity-2 {
-  opacity: 0.4 !important; }
-
-.opacity-3 {
-  opacity: 0.6 !important; }
-
-.opacity-4 {
-  opacity: 0.8 !important; }
-
-.opacity-5 {
-  opacity: 1 !important; }
-
-.opacity-0h5 {
-  opacity: 0 !important;
-  transition: opacity 0.25s ease-in-out !important;
-  -moz-transition: opacity 0.25s ease-in-out !important;
-  -webkit-transition: opacity 0.25s ease-in-out !important; }
-
-.opacity-0h5:hover {
-  opacity: 1 !important; }
 
 .backgroundTransparencia_main {
   background-color: rgba(255, 255, 255, 0.6) !important; }
